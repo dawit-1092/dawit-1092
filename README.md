@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack | Status |
 |:--------|:------------|:-----------|:-------|
-| **[CMMTCS School Website](https://github.com/dawit-1092/CMMTCS-Website)** | Full-featured school website with admin dashboard, student portals, and resource management system | HTML, CSS, JS, Node.js, Express, SQLite3 | ✅ Live |
+| **[CMMTCS School Website](http://gurdsholamissionschool.org/)** | Full-featured school website with admin dashboard, student portals, and resource management system | HTML, CSS, JS, Node.js, Express, SQLite3 | ✅ Live |
 | **Secure Ethiopian Transport App** | Digital transportation platform with Odoo backend integration for fleet management and secure payments | React Native, Node.js, Firebase, Odoo, PostgreSQL | 🔧 In Development |
 | **EthioSec Toolkit** | Open-source penetration testing toolkit with custom scripts for security assessments | Python, Bash, Wireshark | 📚 Educational |
 | **Odoo ERP Custom Modules** | Custom business modules for inventory, sales, and accounting workflows | Python, Odoo, PostgreSQL | ✅ Production |
