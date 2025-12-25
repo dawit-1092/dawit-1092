@@ -6,7 +6,7 @@
 
 *Building secure, scalable solutions across Web, Mobile & Enterprise*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;React+Native+Expert;Odoo+ERP+Specialist;Penetration+Tester;Full-Stack+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;React+Native+Expert;Odoo+ERP+Specialist;Penetration+Tester" alt="Typing SVG" />
 
 </div>
 
