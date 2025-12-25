@@ -46,12 +46,33 @@
 
 ---
 
-## 📊 **Activity & Insights**
+## 📊 **GitHub Statistics**
 
 <div align="center">
+
+<!-- GitHub Readme Stats with enhanced visualization -->
+<div align="center">
   
-### 📈 **GitHub Streak Stats**
+![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawit-1092&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0d1117&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff&include_all_commits=true&custom_title=Dawit%27s%20GitHub%20Statistics)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-1092&layout=compact&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff)
+
+</div>
+
+<!-- Contribution Graph & Metrics -->
+<div align="center">
+  
+### 📈 **Activity Overview**
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawit-1092&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff)
+
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  
+### 🔥 **Contribution Streak**
 ![GitHub Streak](https://streak-stats.demolab.com?user=dawit-1092&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=2E8B57&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=ADBAC7)
+
+</div>
 
 </div>
 
@@ -97,6 +118,14 @@ Here are some of my past projects that highlight my full-stack and security skil
   <p><i>Visualizing my coding activity and commitment over time.</i></p>
 </div>
 
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=dawit-1092&color=green&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/dawit-1092?style=social)](https://github.com/dawit-1092)
+
+</div>
+
+---
 
 <div align="center">
 
