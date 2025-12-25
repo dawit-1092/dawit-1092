@@ -11,21 +11,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-### 🏆 **Profile Achievements**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dawit-1092&theme=dark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-### 📈 **Activity Overview**
-<!-- Contribution Graph -->
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawit-1092&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff)
-
-</div>
-
----
-
 ## 🛠️ **Technical Expertise**
 
 ### **🌐 Frontend Development**
@@ -62,6 +47,16 @@
 
 ---
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawit-1092&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff)
+
+</div>
+
+---
+
 ## 🚀 **Featured Projects**
 
 | Project | Description | Tech Stack | Status |
@@ -70,17 +65,6 @@
 | **Secure Ethiopian Transport App** | Digital transportation platform with Odoo backend integration for fleet management and secure payments | React Native, Node.js, Firebase, Odoo, PostgreSQL | 🔧 In Development |
 | **EthioSec Toolkit** | Open-source penetration testing toolkit with custom scripts for security assessments | Python, Bash, Wireshark | 📚 Educational |
 | **Odoo ERP Custom Modules** | Custom business modules for inventory, sales, and accounting workflows | Python, Odoo, PostgreSQL | ✅ Production |
-
----
-
-## 📊 **GitHub Stats Snapshot**
-
-<div align="center">
-  
-![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawit-1092&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-1092&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff)
-
-</div>
 
 ---
 
