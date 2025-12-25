@@ -2,9 +2,8 @@
 
 # 👨‍💻 Dawit Melaku
 
-**A Passionate Full-Stack Developer & Security Enthusiast from Ethiopia** 🇪🇹
-
-*Building secure, scalable solutions across Web, Mobile & Enterprise*
+**Security-First Full-Stack Developer from Ethiopia** 🇪🇹  
+*Building resilient web, mobile & enterprise solutions with penetration testing expertise*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Mobile+App+Developer;Odoo+ERP+Specialist;Penetration+Tester" alt="Typing SVG" />
 
@@ -12,101 +11,123 @@
 
 ---
 
----
-
-## 📊 **GitHub Statistics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<!-- Contribution Graph & Metrics -->
-<div align="center">
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawit-1092&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff)
-</div>
+### 🏆 **Profile Achievements**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dawit-1092&theme=dark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+### 📈 **Activity Overview**
+<!-- Contribution Graph -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawit-1092&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff)
+
 </div>
 
 ---
 
----
+## 🛠️ **Technical Expertise**
 
-## 🛠️ **Technical Stack**
-
-### **🌐 Web Development**
+### **🌐 Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-%23DA1212?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%230D47A1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FCDD09?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23078C07?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **📱 Mobile App Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### **⚙️ Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-%23078C07?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **🏢 ERP Development**
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### **📱 Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### **🔒 Security Tools**
+### **🏢 Enterprise Solutions**
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+### **🔒 Security & Penetration Testing**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### **⚙️ DevOps & Tools**
+### **🛠️ Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 **Portfolio Projects**
-Here are some of my past projects that highlight my full-stack and security skills.
+## 🚀 **Featured Projects**
 
-| Project | Tech Stack | Description & Links |
-| :--- | :--- | :--- |
-| **CMMTCS School Website** | **HTML, CSS, JavaScript, Nodejs, Express and SQlite3** | Developed and maintain the official website for my former school. The site features dashboards, admin panel and others. |
-| **Secure Ethiopian Transportation App & Odoo Integration** | **React Native, Node.js, Firebase, Odoo, PostgreSQL** | A full-featured digital transport system with a custom Odoo backend. Focused on secure payment flows and role-based access control. |
-| **Open-Source Penetration Testing Toolkit** | **Python, Bash, Wireshark** | A collection of custom scripts and guides for common security assessment tasks, including network scanning and vulnerability analysis. |
+| Project | Description | Tech Stack | Status |
+|:--------|:------------|:-----------|:-------|
+| **[CMMTCS School Website](https://github.com/dawit-1092/CMMTCS-Website)** | Full-featured school website with admin dashboard, student portals, and resource management system | HTML, CSS, JS, Node.js, Express, SQLite3 | ✅ Live |
+| **Secure Ethiopian Transport App** | Digital transportation platform with Odoo backend integration for fleet management and secure payments | React Native, Node.js, Firebase, Odoo, PostgreSQL | 🔧 In Development |
+| **EthioSec Toolkit** | Open-source penetration testing toolkit with custom scripts for security assessments | Python, Bash, Wireshark | 📚 Educational |
+| **Odoo ERP Custom Modules** | Custom business modules for inventory, sales, and accounting workflows | Python, Odoo, PostgreSQL | ✅ Production |
 
 ---
 
-## 📫 **Connect With Me**
+## 📊 **GitHub Stats Snapshot**
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelmelaku49@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawit-melaku/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OnSolutionTech)
+  
+![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawit-1092&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-1092&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff)
 
 </div>
 
 ---
 
-## ⚡ **Fun Facts & Quotes**
+## 📫 **Get in Touch**
 
-> "I think I am funny... but the real joke is when production goes down at 3 AM! 😄"
+<div align="center">
 
-**Did you know?**
-- 🔐 I can find security vulnerabilities while brewing Ethiopian coffee
-- 🌍 I speak 3 languages: Amharic, English, and JS
-- 🎯 My debugging process: 20% logic, 80% `console.log()`
+[![Email](https://img.shields.io/badge/Email-mikaelmelaku49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelmelaku49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawit_Melaku-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawit-melaku/)
+[![Telegram](https://img.shields.io/badge/Telegram-OnSolutionTech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OnSolutionTech)
+[![GitHub](https://img.shields.io/badge/GitHub-dawit--1092-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawit-1092)
+
+</div>
 
 ---
 
-## 📅 **My Contribution Calendar**
+## 🎯 **Current Focus**
+
+- 🔒 **Security Integration**: Implementing security best practices across all projects
+- 📱 **Mobile Development**: Enhancing React Native applications with offline capabilities
+- 🏢 **ERP Solutions**: Developing custom Odoo modules for Ethiopian businesses
+- 🐍 **Penetration Testing**: Expanding the EthioSec Toolkit with new security scripts
+
+---
+
+## ⚡ **Developer Insights**
+
+> "I think I am funny... but the real joke is when production goes down at 3 AM! 😄"
+
+**Fun Facts:**
+- 🔐 Can identify security vulnerabilities while brewing Ethiopian coffee
+- 🌍 Fluent in Amharic, English, and JavaScript
+- 🎯 Debugging philosophy: 20% logic, 80% `console.log()`
+- 🇪🇹 Proudly building tech solutions for Ethiopian enterprises
+
+---
+
+## 📅 **Contribution Activity**
 <div align="center">
   <img src="https://ghchart.rshah.org/dawit-1092" alt="Dawit's GitHub Contribution Chart" width="100%" />
-  <p><i>Visualizing my coding activity and commitment over time.</i></p>
+  <p><em>Tracking my development journey and open-source contributions</em></p>
 </div>
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=dawit-1092&color=green&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/dawit-1092?style=social)](https://github.com/dawit-1092)
+![Visitor Count](https://komarev.com/ghpvc/?username=dawit-1092&color=2E8B57&style=flat-square&label=Profile+Views)
+[![GitHub Followers](https://img.shields.io/github/followers/dawit-1092?style=social&label=Follow)](https://github.com/dawit-1092)
 
 </div>
 
@@ -117,6 +138,6 @@ Here are some of my past projects that highlight my full-stack and security skil
 **"First, solve the problem. Then, write secure code."**  
 *Ethiopian proverb: "When spider webs unite, they can tie up a lion."* 🦁
 
-⭐ *Star some of my repositories if you find them useful!*
+⭐ **Explore my repositories and contribute to open-source projects!**
 
 </div>
